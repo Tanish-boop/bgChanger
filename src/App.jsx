@@ -3,7 +3,8 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 
 function App() {
-  const [color, setcolor] = useState("olive");
+  
+  const [color, setcolor] = useState("green");
 
   return (
     <>
